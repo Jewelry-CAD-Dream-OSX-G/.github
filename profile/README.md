@@ -40,12 +40,6 @@ Material libraries define metals and surface finishes through comprehensive mate
 
 ---
 
-<p align="center">
-  <img src="https://jewelrydesignacademy.wordpress.com/wp-content/uploads/2019/10/jewelry-cad-dream-chennai-designer-training-institute-courses-weekend-classes.jpg" alt="Jewelry CAD Dream screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 Jewelry CAD Dream OSX excels for specialized jewelry design requirements. Parametric modeling enables size-adjustable designs maintaining consistency across size ranges supporting efficient product line development.
